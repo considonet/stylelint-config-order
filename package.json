@@ -1,0 +1,25 @@
+{
+  "name": "@considonet/stylelint-config-order",
+  "version": "1.0.0",
+  "description": "Default stylelint ruleset for CSS rule ordering in ConsidoNet projects",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/considonet/stylelint-config-order.git"
+  },
+  "keywords": [
+    "stylelint"
+  ],
+  "author": "Paweł Gabryelewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/considonet/stylelint-config-order/issues"
+  },
+  "homepage": "https://github.com/considonet/stylelint-config-order#readme",
+  "dependencies": {
+    "stylelint-order": "^3.0.1"
+  },
+  "peerDependencies": {
+    "stylelint": "^10.1.0"
+  }
+}
