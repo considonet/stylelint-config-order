@@ -1,15 +1,11 @@
 # @considonet/stylelint-config-order
 
-> Default stylelint ruleset for CSS rule ordering in ConsidoNet projects
-
-## What is this?
-
-Default [`stylelint`](https://github.com/stylelint/stylelint) profile to handle properties ordering in CSS stylesheets for ConsidoNet projects.
+> Default [`stylelint`](https://github.com/stylelint/stylelint) profile to handle properties ordering in CSS stylesheets for ConsidoNet projects.
 
 ## Rules
 
 * Inspired by [Idiomatic CSS declaration order](https://github.com/necolas/idiomatic-css#declaration-order).
-* Requires `content` property to go first (_if set_).
+* Requires `content` property to go first (if set).
 
 
 ## Installation
