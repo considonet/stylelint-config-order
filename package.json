@@ -1,6 +1,6 @@
 {
   "name": "@considonet/stylelint-config-order",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default stylelint ruleset for CSS rule ordering in ConsidoNet projects",
   "main": "./lib/index.js",
   "repository": {
