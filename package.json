@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/considonet/stylelint-config-order#readme",
   "dependencies": {
-    "stylelint-order": "^3.0.1"
+    "stylelint-order": "^4.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^10.1.0"
+    "stylelint": "^10.1.0 || ^11.0.0 || ^12.0.0 || ^13.0.0"
   }
 }
